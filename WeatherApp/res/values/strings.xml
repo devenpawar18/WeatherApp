@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Network Error -->
+    <string name="network_error">Network error. Please check your connection.</string>
+
+    <!-- Turn on GPS -->
+    <string name="turn_on">Turn ON</string>
+
+    <!-- Home Activity Layout Strings -->
+    <string name="last_updated">Last Updated</string>
+    <string name="real_feel">Real Feel</string>
+    <string name="sunrise_sunset">Sunrise &amp; Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="weather">Weather</string>
+    <string name="pressure">Pressure</string>
+    <string name="sea_level">Sea Level</string>
+    <string name="humidity">Humidity</string>
+    <string name="clouds">Cloudiness</string>
+    <string name="wind">Wind</string>
+    <string name="speed">Speed</string>
+    <string name="direction">direction</string>
+    <string name="weather_at">Weather at</string>
+
+</resources>

@@ -12,3 +12,5 @@ This is a weather app that provides weather information of user's current locati
 # This is update 5.
 
 # This is update 6.
+
+# This is update 7.
